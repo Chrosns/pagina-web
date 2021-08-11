@@ -1,7 +1,10 @@
 body{
-	background: lightgrey;
+	background: gold;
 }
 h1{
 	font-family: sans-serif;
 	color: blueviolet;
+}
+header{
+	background: lightgrey;
 }
