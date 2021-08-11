@@ -1,7 +1,10 @@
 body{
-	background: lightgrey;
+	background: goldenrod;
 }
 h1{
 	font-family: sans-serif;
 	color: blueviolet;
+}
+footer{
+	background: lightgrey;
 }
