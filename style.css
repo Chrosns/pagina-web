@@ -1,10 +1,14 @@
 body{
-	background: gold;
+	background: goldenrod;
 }
 h1{
 	font-family: sans-serif;
 	color: blueviolet;
 }
 header{
+	background: lightgrey;
+}
+
+footer{
 	background: lightgrey;
 }
