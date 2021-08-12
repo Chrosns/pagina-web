@@ -31,7 +31,7 @@ header:before, header:after, footer:before, footer:after{
 	content: '';
 	position: absolute;
 	height: 100%;
-	width: 600px;
+	width: 270px;
 	background: goldenrod;
 }
 
@@ -55,12 +55,12 @@ ul#galeria{
 ul#galeria li{
 	display: inline-block;
 	vertical-align: top;
-	width: 30%;
+	width: 33%;
 }
 
 ul#galeria img{
 	width: 100%;
-	height: auto;
+	height: 250px;
 }
 
 ul#galeria a{
